@@ -1,0 +1,13 @@
+
+Gurobi 13.0.0 (win64, gurobi_cl) logging started Fri Jan  9 12:29:33 2026
+
+Set parameter LogFile to value "gurobi.log"
+
+Gurobi 13.0.0 (win64, gurobi_cl) logging started Fri Jan  9 16:18:30 2026
+
+Set parameter WLSAccessID
+Set parameter WLSSecret
+Set parameter LicenseID to value 2741365
+Set parameter LogFile to value "gurobi.log"
+Using license file C:\Users\massi\gurobi.lic
+Academic license 2741365 - for non-commercial use only - registered to ma___@unina.it
